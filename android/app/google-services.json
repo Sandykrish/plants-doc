@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1032937849250",
+    "project_id": "plantsdoc-ac468",
+    "storage_bucket": "plantsdoc-ac468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032937849250:android:f09573312338eb3acc72fb",
+        "android_client_info": {
+          "package_name": "com.sandy.plants_doc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032937849250-nvhn83tpa7s2oqp9e4rpdbkbs8ursoi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandy.plants_doc",
+            "certificate_hash": "7cfe94a32d8daf35c9b9460e74a5fb9c77612b9b"
+          }
+        },
+        {
+          "client_id": "1032937849250-upi0bmetfnupkko7p6jdel4q4723ffp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBipyzN7-WBO4py6Wst2-Xlj11T4WINujc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032937849250-upi0bmetfnupkko7p6jdel4q4723ffp8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
